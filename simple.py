@@ -1,6 +1,6 @@
 import time
 
-output_file = '/path/to/timestamps.txt'
+output_file = 'timestamps.txt'
 
 while True:
     current_time = time.strftime('%Y-%m-%d %H:%M:%S')
